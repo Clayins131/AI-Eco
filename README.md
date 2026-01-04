@@ -59,4 +59,4 @@ This project does not require any installation or build process.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ai-eco.git
+   git clone https://github.com/your-username/AI-Eco.git
